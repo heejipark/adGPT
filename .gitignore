@@ -1,0 +1,5 @@
+__pycache__/
+pynecone.db
+pcconfig.py
+env/
+.DS_Store
