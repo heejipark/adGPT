@@ -14,7 +14,9 @@ adGPT is designed to simplify the ad creation process. Just provide some key inf
 
 ## Feedback and Support
 
-I value your feedback and are here to assist you! If you have any questions, encounter issues, or have suggestions for improvement, please don't hesitate to [get in touch](heejipark.usc@gmail.com). 
+I value your feedback and are here to assist you! If you have any questions, encounter issues, or have suggestions for improvement, please don't hesitate to email me.
 
 ## Demo Video 
-[Example](assets/demo.mov)
+[![Demo Video](assets/demo.png)](https://youtu.be/IAnkmar1v-s)
+
+
